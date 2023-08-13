@@ -4,7 +4,7 @@ let ehMaior = 25 > 16;
 //comparar se 25 é maior que 16, e vai retornar true. 
 console.log(ehMaior);
 
-ehMenor = 15 > 16;
+ehMenor = 15 < 16;
 //comparar se 15 é maior que 16, e vai retornar false.
 console.log(ehMenor);
 
